@@ -1,0 +1,12 @@
+#+TITLE: P5 Processing and Shaders
+#+AUTHOR: Evgeniy N. Sharapov
+#+EMAIL: evgeniy.sharapov@gmail.com
+
+* Learning =p5.js= and GL Shaders
+
+
+  [[https://itp-xstory.github.io/p5js-shaders/#/][This]] is a main starting point for using GL shaders in P5.js
+
+  When it comes to shaders then [[https://thebookofshaders.com/][The Book of Shaders]] is the source.
+
+  [[https://riptutorial.com/opengl/example/32426/using-textures-in-glsl-shaders][This]] shows using textures in shaders.
